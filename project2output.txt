@@ -1,0 +1,7 @@
+Script started on 2019-02-13 20:55:35-0500
+]0;ryan@ryan-VirtualBox: ~/cs472/project2[01;32mryan@ryan-VirtualBox[00m:[01;34m~/cs472/project2[00m$ emacs fib_shm_parent.cls[Kcd project2ls[Kcd project2ls[Kemacs fib_shm_parent.c[K./fib_shm_parent 10
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+]0;ryan@ryan-VirtualBox: ~/cs472/project2[01;32mryan@ryan-VirtualBox[00m:[01;34m~/cs472/project2[00m$ exit
+exit
+
+Script done on 2019-02-13 20:56:04-0500
